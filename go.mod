@@ -1,3 +1,3 @@
-module go.olapie.com/activity
+module go.olapie.com/activities
 
 go 1.21
